@@ -11,4 +11,4 @@
         client to view information of movie available
         client to choose their own seating
         administrator and user to access the same database through online interface
-        administrator to organize movie information online
+        administrator to organize movie information online.
