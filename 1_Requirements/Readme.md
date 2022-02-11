@@ -14,6 +14,7 @@
    Booking tickets
    Cancel tickets
    Change ticket price(only admin)
+   Add movies
    View all booking records
 
 # Benefits
