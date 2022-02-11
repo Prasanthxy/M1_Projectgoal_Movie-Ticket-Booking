@@ -58,20 +58,20 @@
 
  # High Level Requirements
   
-  |ID| |Description| |Category| |Status|
-  |:--:|:--------:|:----:|
- |HR01||User shall be able to login to the system||Techincal||IMPLEMENTED|
- |HR02||User shall be able to purchase a ticket||Techincal||IMPLEMENTED|
- |HR03||User shall be able to get summary of the ticket booked||Techincal||IMPLEMENTED|
- |HR04||User shall be able to cancel a ticket||Techincal||IMPLEMENTED|
- |HR05||User shall be able to view the reserved seats||Techincal||IMPLEMENTED|
+  |ID|Description|Category|Status|
+  |:--:|:--------:|:----:|:--:|
+ |HR01|User shall be able to login to the system|Techincal|IMPLEMENTED|
+ |HR02|User shall be able to purchase a ticket|Techincal|IMPLEMENTED|
+ |HR03|User shall be able to get summary of the ticket booked|Techincal|IMPLEMENTED|
+ |HR04|User shall be able to cancel a ticket|Techincal|IMPLEMENTED|
+ |HR05|User shall be able to view the reserved seats|Techincal|IMPLEMENTED|
 
  # Low level Requirements
   
-   |ID| |Description| |Category| |Status|
-  |:--:|:--------:|:----:|
- |HR01||User shall be able to login to the system||Techincal||IMPLEMENTED|
- |HR02||User shall be able to purchase a ticket||Techincal||IMPLEMENTED|
- |HR03||User shall be able to get summary of the ticket booked||Techincal||IMPLEMENTED|
- |HR04||User shall be able to cancel a ticket||Techincal||IMPLEMENTED|
- |HR05||User shall be able to view the reserved seats||Techincal||IMPLEMENTED|
+   |ID|Description|Category|Status|
+  |:--:|:--------:|:----:|:--:|
+ |HR01|User shall be able to login to the system|Techincal|IMPLEMENTED|
+ |HR02|User shall be able to purchase a ticket|Techincal|IMPLEMENTED|
+ |HR03|User shall be able to get summary of the ticket booked|Techincal|IMPLEMENTED|
+ |HR04|User shall be able to cancel a ticket|Techincal|IMPLEMENTED|
+ |HR05|User shall be able to view the reserved seats|Techincal|IMPLEMENTED|
