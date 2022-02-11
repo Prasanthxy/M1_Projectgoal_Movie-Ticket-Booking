@@ -3,9 +3,10 @@
  # High Level Design
 
    * Architecture Design
+   
+      ![High level](https://user-images.githubusercontent.com/98865606/153579197-59cf8ffb-29ad-4288-aa4e-17da87bdb27d.gif)
 
-     ![highlevel](https://user-images.githubusercontent.com/98865606/153253436-055cb400-b15f-40e0-a474-560fd1f53c7e.png)
-
+      
    * Usecase Diagram
 
      ![Usecasehdl](https://user-images.githubusercontent.com/98865606/153253917-ed77351a-5b50-443a-bda0-1ed54e5807a7.png)
@@ -13,8 +14,8 @@
  # Low Level Design
 
    * Level0
-     
-     ![Level0](https://user-images.githubusercontent.com/98865606/153254455-988c3218-5a5d-4dbd-98c4-3cfc69609fd6.png)
+
+     ![Level 0](https://user-images.githubusercontent.com/98865606/153578899-b6475c04-8d8c-467c-9e4f-c0771d7e8b2d.jpg)
 
    * Level1
 
